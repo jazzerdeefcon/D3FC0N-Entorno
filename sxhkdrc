@@ -4,8 +4,8 @@
 
 # terminal emulator
 super + Return
-	kitty --config ~/.config/kitty/kitty.conf &
-#	gnome-terminal
+#	kitty --config ~/.config/kitty/kitty.conf &
+	gnome-terminal
 
 # program launcher
 super + d
